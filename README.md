@@ -5,7 +5,8 @@ A tumor is a mass of tissue formed by the rapid growth of abnormal cells inside 
 MRI (Magnetic Resonance Imaging) is basically used in the biomedical to detect and visualize finer details in the internal structure of the body. It can easily detect differences in neighbouring tissues, and thus is a primary tool for tumor detection.
 In this paper, the authors aim to implement various image process techniques to correctly identify and segment brain tumors from MRI images of the brain. The images are acquired from **‘Brain MRI images for Brain Tumor Detection’ dataset available on Kaggle.** 
 
-These images will then be converted to greyscale, and subsequently sharpened and enhanced (involving removing noise followed by high pass filtering). Then, the images will be subjected to Watershed Segmentation, and finally morphological operations will be carried out to extract the tumor from the rest of the image, so that it can be correctly identified.
+These images will then be converted to **greyscale**, and subsequently **sharpened and enhanced** (involving removing noise followed by high pass filtering). Then, the images will be subjected to **Watershed Segmentation**, and finally morphological operations will be carried out to extract the tumor from the rest of the image, so that it can be correctly identified.
+
 
 
 Literature References:
