@@ -1,5 +1,5 @@
 # Brain-Tumor-Detection
-Identifying Brain tumor using Brain MRI Images, via OpenCV and TensorFlow
+Identifying Brain tumor using Brain MRI Images, via OpenCV
 
 A tumor is a mass of tissue formed by the rapid growth of abnormal cells inside the body. A tumor can stay in the body undetected for a long time, while slowly growing in size and turning into a cancer. Brain tumors are one of the deadliest forms of cancer, and thus, early detection of these tumors is necessary, and hence it composes a wide field of medical research.
 MRI (Magnetic Resonance Imaging) is basically used in the biomedical to detect and visualize finer details in the internal structure of the body. It can easily detect differences in neighbouring tissues, and thus is a primary tool for tumor detection.
